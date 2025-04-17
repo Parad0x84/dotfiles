@@ -43,7 +43,7 @@ winget install -e --silent Valve.Steam EpicGames.EpicGamesLauncher ItchIo.Itch N
 
 @REM         -----   DRIVERS   -----
 winget install -e --silent Intel.IntelDriverAndSupportAssistant
-winget install -e --silent Samsung.SamsungMagician SteelSeries.GG RazerInc.RazerInstaller 9P1TBXR6QDCX
+winget install -e --silent Samsung.SamsungMagician SteelSeries.GG RazerInc.RazerInstaller CalcProgrammer1.OpenRGB 9P1TBXR6QDCX
 @REM 9P1TBXR6QDCX -> HyperX NGENUITY (msstore)
 @REM Also Nvidia App
 

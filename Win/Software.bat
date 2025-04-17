@@ -54,7 +54,7 @@ winget install -e --silent Nvidia.GeForceExperience
 winget install -e --silent Nvidia.Broadcast
 winget install -e --silent Samsung.SamsungMagician
 winget install -e --silent Samsung.SteelSeries.GG
-winget install -e --silent Samsung.SamsungMagician
+winget install -e --silent CalcProgrammer1.OpenRGB
 winget install -e --silent RazerInc.RazerInstaller
 @REM 9P1TBXR6QDCX -> HyperX NGENUITY
 winget install -e --silent 9P1TBXR6QDCX
